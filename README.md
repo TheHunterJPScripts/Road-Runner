@@ -1,5 +1,5 @@
 # Road Runner
- Endless runner game.
+ Endless runner game made as end project for a course.
 [ (.exe)](https://thehunterjp.itch.io/road-runner)
 
 ![](https://i.gyazo.com/07d026797416f8015ff60c54082ffb6a.png)
