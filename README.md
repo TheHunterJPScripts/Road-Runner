@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/status-finished-green)
 # Road Runner
  Endless runner game made as end project for a course.
 [ (Itch.io)](https://thehunterjp.itch.io/road-runner)
